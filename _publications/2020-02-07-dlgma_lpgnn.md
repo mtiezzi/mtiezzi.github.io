@@ -5,7 +5,7 @@ permalink: /publication/2020-02-07-dlgma_lpgnn
 excerpt: 'AAAI20 - DLGMA Workshop paper - LPGNN'
 date: 2020-02-07
 venue: 'AAAI20 - DLGMA Workshop paper'
-paperurl: 'http://mtiezzi.github.io/files/DLGMA_2020_paper_28.pdf'
+paperurl: 'https://dlg2019.bitbucket.io/aaai20/'
 citation: 'Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini and Marco Gori (2020). &quot;Lagrangian Propagation Graph Neural Networks &quot; <i>AAAI20 - DLGMA Workshop</i>. 1(3).'
 ---
 In the last years, the popularity of deep learning techniques has
