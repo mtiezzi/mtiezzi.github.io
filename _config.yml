@@ -4,6 +4,12 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+#### EDIT PER SKIN DARK
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Site Settings
 locale                   : "en-US"
@@ -97,7 +103,7 @@ author:
   facebook         :
   foursquare       :
   github           : "mtiezzi"
-  google_plus      :
+  gitlab           : # "your-username"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -146,6 +152,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets`
+  - assets
 keep_files:
   - .git
   - .svn
@@ -265,6 +273,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
