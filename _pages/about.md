@@ -11,7 +11,7 @@ redirect_from:
 
 
 I am a PhD candidate in Information Engineering at University of Siena, advised by [Prof. Marco Maggini](http://sailab.diism.unisi.it/people/marco-maggini/).
-I joined the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/), an exciting place to study and deepen my knowlowdge into Machine Learning.
+I joined the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/), an exciting place to study and deepen my knowledge into Machine Learning.
 
 I am generally interested in Artificial Intelligence and other connected areas of computer science.
 My recent contributes are related to both the application of 
@@ -31,12 +31,12 @@ Lagrangian Propagation Graph Neural Networks
 We propose a novel approach to the state computation and the learning algorithm for GNNs, based on a constraint optimisation task solved in the Lagrangian framework. The state convergence procedure is implicitly expressed by the constraint satisfaction mechanism and does not require a separate iterative phase for each epoch of the learning procedure. 
 In fact, the computational structure is based on the search for saddle points of the Lagrangian in the adjoint space composed of weights, neural outputs (node states), and Lagrange multipliers. 
 The proposed approach is compared experimentally with other popular models for processing graphs. 
-More on the publication section.
+You can find more on the [publication](https://mtiezzi.github.io/publications/) section.
 
 
 The Graph Neural Network Framework
 ----------------------------------
-You cn find more on the [software](https://mtiezzi.github.io/software/) section.
+You can find more on the [software](https://mtiezzi.github.io/software/) section.
 
 Our research group introduced the Graph Neural Network (GNN), a connectionist model particularly suited for problems whose domain can be represented by a set of patterns and relationships between them.
 
