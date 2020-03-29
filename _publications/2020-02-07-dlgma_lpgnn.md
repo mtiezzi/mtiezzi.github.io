@@ -6,8 +6,9 @@ excerpt: 'AAAI20 - DLGMA Workshop paper - LPGNN'
 date: 2020-02-07
 venue: 'AAAI20 - DLGMA Workshop paper'
 paperurl: 'https://dlg2019.bitbucket.io/aaai20/'
-citation: 'Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini and Marco Gori (2020). &quot;Lagrangian Propagation Graph Neural Networks &quot; <i>AAAI20 - DLGMA Workshop</i>. 1(3).'
+citation: 'Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini and Marco Gori (2020). &quot;Lagrangian Propagation Graph Neural Networks &quot; <i>AAAI20 - DLGMA Workshop</i>'
 ---
+
 In the last years, the popularity of deep learning techniques has
 renewed the interest in neural models able to process complex
 patterns, that are naturally encoded as graphs. In particular,
@@ -28,4 +29,5 @@ Lagrange multipliers. The proposed approach is compared experimentally with othe
 
 [Download paper here](http://mtiezzi.github.io/files/DLGMA_2020_paper_28.pdf)
 
-Recommended citation: Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini and Marco Gori (2020). "Lagrangian Propagation Graph Neural Networks" <i>AAAI20 - DLGMA Workshop</i>. 1(3).
+Recommended citation: 
+Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini and Marco Gori (2020). "Lagrangian Propagation Graph Neural Networks" <i>AAAI20 - DLGMA Workshop</i>.
