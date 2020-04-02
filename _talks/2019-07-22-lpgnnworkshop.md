@@ -1,5 +1,5 @@
 ---
-title: "ACDL Satellite Workshop on Graph Neural Networks - Graph Neural Networks – A constraint-based formulation"
+title: "ACDL Satellite Workshop on Graph Neural Networks - Lagrangian Propagation Graph Neural Networks – A constraint-based formulation"
 collection: talks
 type: "Workshops"
 permalink: /talks/2019-07-22-lpgnnworkshop
