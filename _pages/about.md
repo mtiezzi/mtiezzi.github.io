@@ -16,7 +16,7 @@ I joined the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.di
 I am generally interested in Artificial Intelligence and other connected areas of computer science.
 My recent contributes are related to both the application of 
 Deep Learning models to computer vision and video analysis, and fundational studies regarding novel learning algorithms and neural models.
-I am particularly interested in the emerging field of non-euclidean Deep Learnning, in particular in Graph Neural Networks.
+I am particularly interested in the emerging field of non-euclidean Deep Learning, in particular in Graph Neural Networks.
 
 
 
