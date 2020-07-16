@@ -33,6 +33,14 @@ In fact, the computational structure is based on the search for saddle points of
 The proposed approach is compared experimentally with other popular models for processing graphs. 
 You can find more on the [publication](https://mtiezzi.github.io/publications/) section.
 
+![LP-GNNs](../images/fig_0.png) ![LP-GNNs](../images/fig_final200.png) ![LP-GNNs](../images/fig_final9900.png)
+
+<p align="middle">
+  <img src="../images/fig_0.png" width="32%" />
+  <img src="../images/fig_final200.png" width="32%" /> 
+  <img src="../images/fig_final9900.png" width="32%" />
+</p>
+
 
 The Graph Neural Network Framework
 ----------------------------------
@@ -42,6 +50,20 @@ Our research group introduced the Graph Neural Network (GNN), a connectionist mo
 
 In those problems, a prediction about a given pattern can be carried out exploiting all the related information, which includes the pattern features, the pattern relationships and, in general, the whole graph that represents the domain. GNN peculiarity consists in its capability of computing the output prediction processing directly the input domain graph, without any preprocessing into a vectorial representation.
 GNNs have been proved to be a universal approximator for a class of functions on graphs and have been applied to several tasks, including spam detection, object localization in images, molecule classification.
+
+SAILenv
+-------
+[SAILenv](http://sailab.diism.unisi.it/sailenv/) is a Virtual Environment powered by Unity3D. It includes 3 pre-built scenes with full pixel-wise annotations. SAILenv is capable of generating frames at real-time speed, complete with pixel-wise annotations, optical flow and depth.
+
+SAILenv also comes with a Python API, designed to easily integrate with the most common learning frameworks available.
+
+<p align="middle">
+  <img src="../images/instance-150x150.png" width="24%" />
+  <img src="../images/category-150x150.png" width="24%" /> 
+  <img src="../images/depth-150x150.png" width="24%" />
+  <img src="../images/room02_flow-150x150.png" width="24%" />
+</p>
+
 
 
 Learning in Visual Environments
