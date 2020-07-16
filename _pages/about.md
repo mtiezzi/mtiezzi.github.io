@@ -23,7 +23,12 @@ I am particularly interested in the emerging field of non-euclidean Deep Learnin
 Projects
 ========
 
-I am currently involved in several projects:
+I am currently involved in several projects at SAILab
+
+<p align="middle">
+  <img src="../images/sailab.png" width="32%" />
+</p>
+
 
 Lagrangian Propagation Graph Neural Networks
 --------------------------------------------
