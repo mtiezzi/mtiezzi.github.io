@@ -33,8 +33,6 @@ In fact, the computational structure is based on the search for saddle points of
 The proposed approach is compared experimentally with other popular models for processing graphs. 
 You can find more on the [publication](https://mtiezzi.github.io/publications/) section.
 
-![LP-GNNs](../images/fig_0.png) ![LP-GNNs](../images/fig_final200.png) ![LP-GNNs](../images/fig_final9900.png)
-
 <p align="middle">
   <img src="../images/fig_0.png" width="32%" />
   <img src="../images/fig_final200.png" width="32%" /> 
