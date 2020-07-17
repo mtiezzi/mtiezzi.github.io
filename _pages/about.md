@@ -26,7 +26,7 @@ Projects
 I am currently involved in several projects at SAILab
 
 <p align="middle">
-  <img src="../images/sailab.png" width="32%" />
+  <img src="../images/sailab.png" width="15%" />
 </p>
 
 
