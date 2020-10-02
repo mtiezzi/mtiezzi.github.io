@@ -1,5 +1,5 @@
 ---
-title: "LabMeeting:  Learning scene decomposition nd Visual Graph Representation"
+title: "LabMeeting:  Learning scene decomposition and Visual Graph Representation"
 collection: talks
 type: "LabMeeting"
 permalink: /talks/2019-04-03-scenegraph

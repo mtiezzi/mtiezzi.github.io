@@ -20,6 +20,13 @@ I am particularly interested in the emerging field of non-euclidean Deep Learnin
 
 
 
+News
+====
+- **[September 2020]** My paper "Focus of Attention Improves Information Transfer in Visual Features" accepted at NeurIPS 2020 Conference! Have a look at the technical report [here](https://arxiv.org/abs/2006.09229)
+
+- **[January 2020]** "A Lagrangian Approach to Information Propagation in Graph Neural Networks" accepted at ECAI 2020. You can find more on the [publication](https://mtiezzi.github.io/publications/) section.
+
+
 Projects
 ========
 
