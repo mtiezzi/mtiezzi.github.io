@@ -22,6 +22,8 @@ I am particularly interested in the emerging field of non-euclidean Deep Learnin
 
 News
 ====
+- **[December 2020]** Have a look at the slides of the talk ["An overview of Graph Neural Networks up to Lagrangian Propagation GNNs"](https://mtiezzi.github.io/talks/2020-12-04-maasai) that I gave at the Maasai institute! 
+
 - **[September 2020]** My paper ["Focus of Attention Improves Information Transfer in Visual Features"](https://mtiezzi.github.io/publication/2020-09-25-focus) has been accepted at NeurIPS 2020 Conference! Have a look at the technical report [here](https://arxiv.org/abs/2006.09229)!
 
 - **[January 2020]** ["A Lagrangian Approach to Information Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2020-03-17-lpgnn) accepted at ECAI 2020!
