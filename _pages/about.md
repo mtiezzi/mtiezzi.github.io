@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matteo Tiezzi - PhD Student @ SAILab"
+title: "Matteo Tiezzi - PostDoc @ SAILab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
