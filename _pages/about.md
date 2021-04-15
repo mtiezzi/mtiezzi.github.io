@@ -10,18 +10,17 @@ redirect_from:
 
 
 
-I am a PhD candidate in Information Engineering at University of Siena, advised by [Prof. Marco Maggini](http://sailab.diism.unisi.it/people/marco-maggini/).
-I joined the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/), an exciting place to study and deepen my knowledge into Machine Learning.
+I am a post-doctoral researcher in the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/), tutored by [Prof. Stefano Melacci](http://sailab.diism.unisi.it/people/stefano-melacci/). I obtained my PhD at the University of Siena, Italy, defending a thesis entitled "Local Propagation in Neural Network Learning by Architectural Constraints". 
 
 I am generally interested in Artificial Intelligence and other connected areas of computer science.
-My recent contributes are related to both the application of 
-Deep Learning models to computer vision and video analysis, and fundational studies regarding novel learning algorithms and neural models.
-I am particularly interested in the emerging field of non-euclidean Deep Learning, in particular in Graph Neural Networks.
+My recent contributes are related to both the application of  Deep Learning models to computer vision and video analysis, and fundational studies regarding novel learning algorithms and neural models. I am particularly interested in the emerging field of non-euclidean Deep Learning, in particular in Graph Neural Networks.
 
 
 
 News
 ====
+- **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io/posts/2021-04-26-thesis)! Have a look at the blog post!   
+
 - **[December 2020]** Have a look at the slides of the talk ["An overview of Graph Neural Networks up to Lagrangian Propagation GNNs"](https://mtiezzi.github.io/talks/2020-12-04-maasai) that I gave at the Maasai institute! 
 
 - **[September 2020]** My paper ["Focus of Attention Improves Information Transfer in Visual Features"](https://mtiezzi.github.io/publication/2020-09-25-focus) has been accepted at NeurIPS 2020 Conference! Have a look at the technical report [here](https://arxiv.org/abs/2006.09229)!

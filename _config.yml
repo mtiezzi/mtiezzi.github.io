@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "Matteo Tiezzi / Personal Web Page"
 title_separator          : "-"
 name                     : &name "Matteo Tiezzi"
-description              : &description "PhD Student @ SAILab"
+description              : &description "PostDoc Researcher @ SAILab"
 url                      : https://mtiezzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mtiezzi.github.io"
@@ -89,7 +89,7 @@ analytics:
 author:
   name             : "Matteo Tiezzi"
   avatar           : "profile.png"
-  bio              : "PhD Student @ SAILAB"
+  bio              : "PostDoc Researcher @ SAILAB"
   location         : "Siena, Italy"
   employer         :
   pubmed           : 

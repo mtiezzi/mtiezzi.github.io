@@ -29,5 +29,14 @@ Lagrange multipliers. The proposed approach is compared experimentally with othe
 
 [Download paper here](http://mtiezzi.github.io/files/DLGMA_2020_paper_28.pdf)
 
+
 Recommended citation: 
-Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini and Marco Gori (2020). "Lagrangian Propagation Graph Neural Networks" <i>AAAI20 - DLGMA Workshop</i>.
+```
+@article{tiezzi2020lagrangian,
+  title={Lagrangian Propagation Graph Neural Networks},
+  author={Tiezzi, Matteo and Marra, Giuseppe and Melacci, Stefano and Maggini, Marco and Gori, Marco},
+  year={2020}
+}
+```
+
+
