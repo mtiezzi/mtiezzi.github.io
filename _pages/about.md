@@ -19,7 +19,7 @@ My recent contributes are related to both the application of  Deep Learning mode
 
 News
 ====
-- **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io/posts/2021-04-26-thesis)! Have a look at the blog post!   
+- **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io//posts/2021/04/thesis/)! Have a look at the blog post!   
 
 - **[December 2020]** Have a look at the slides of the talk ["An overview of Graph Neural Networks up to Lagrangian Propagation GNNs"](https://mtiezzi.github.io/talks/2020-12-04-maasai) that I gave at the Maasai institute! 
 
