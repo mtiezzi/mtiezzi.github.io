@@ -5,7 +5,7 @@ permalink: /publication/2021-04-15-lpgnn-TPAMI
 excerpt: 'TPAMI - Deep LP-GNNs'
 date: 2021-04-15
 venue: 'TPAMI'
-paperurl: 'https://papers.nips.cc/paper/2020/hash/fc2dc7d20994a777cfd5e6de734fe254-Abstract.html'
+paperurl: 'https://doi.org/10.1109/TPAMI.2021.3073504'
 citation: 'Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini (2021). &quot;Deep Constraint-based Propagation in Graph Neural Networks &quot; <i>TPAMI</i>'
 ---
 
