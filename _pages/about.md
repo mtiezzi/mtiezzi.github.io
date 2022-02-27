@@ -19,13 +19,15 @@ My recent contributes are related to both the application of  Deep Learning mode
 
 News
 ====
+- **[November 2021]**  ["Being Friends Instead of Adversaries: Deep Networks Learn from Data Simplified by Other Networks"](https://mtiezzi.github.io/publication/2022-02-25-friendly2) has been accepted at the AAAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2112.09968)!  
+
 - **[April 2021]**  ["Deep Constraint-based Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2021-04-15-lpgnn-TPAMI) has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!  
 
 - **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io//posts/2021/04/thesis/)! Have a look at the blog post!   
 
 - **[December 2020]** Have a look at the slides of the talk ["An overview of Graph Neural Networks up to Lagrangian Propagation GNNs"](https://mtiezzi.github.io/talks/2020-12-04-maasai) that I gave at the Maasai institute! 
 
-- **[September 2020]** My paper ["Focus of Attention Improves Information Transfer in Visual Features"](https://mtiezzi.github.io/publication/2020-09-25-focus) has been accepted at NeurIPS 2020 Conference! Have a look at the technical report [here](https://arxiv.org/abs/2006.09229)!
+- **[September 2020]** My paper ["Focus of Attention Improves Information Transfer in Visual Features"](https://mtiezzi.github.io/publication/2020-09-25-focus) has been accepted at NeurIPS 2020 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2006.09229)!
 
 - **[January 2020]** ["A Lagrangian Approach to Information Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2020-03-17-lpgnn) accepted at ECAI 2020!
 
