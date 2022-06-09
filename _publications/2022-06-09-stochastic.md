@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-06-09-stochastic
 excerpt: 'IJCAI2022'
 date: 2022-06-09
-venue: 'ICAJI2022'
+venue: 'IJCAI2022'
 paperurl: 'https://arxiv.org/abs/2204.12193'
 citation: 'Matteo Tiezzi, Simone Marullo, Lapo Faggi, Enrico Meloni, Alessandro Betti, Stefano Melacci (2022). &quot;Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams &quot; <i>IJCAI</i>'
 ---
