@@ -13,12 +13,14 @@ redirect_from:
 I am a post-doctoral researcher in the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/), tutored by [Prof. Stefano Melacci](http://sailab.diism.unisi.it/people/stefano-melacci/). I obtained my PhD at the University of Siena, Italy, defending a thesis entitled "Local Propagation in Neural Network Learning by Architectural Constraints". 
 
 I am generally interested in Artificial Intelligence and other connected areas of computer science.
-My recent contributes are related to both the application of  Deep Learning models to computer vision and video analysis, and fundational studies regarding novel learning algorithms and neural models. I am particularly interested in the emerging field of non-euclidean Deep Learning, in particular in Graph Neural Networks.
+My recent contributes are related to both the application of  Deep Learning models to computer vision and video analysis, and fundational studies regarding novel learning algorithms and neural models. I am particularly interested in the field of non-euclidean Deep Learning, in particular in Graph Neural Networks, as long as the emerging topic of Lifelong Learning.
 
 
 
 News
 ====
+- **[June 2022]**  ["Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams"](https://mtiezzi.github.io/publication/2022-06-09-stochastic) has been accepted at the IJCAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2204.12193)!  
+
 - **[November 2021]**  ["Being Friends Instead of Adversaries: Deep Networks Learn from Data Simplified by Other Networks"](https://mtiezzi.github.io/publication/2022-02-25-friendly2) has been accepted at the AAAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2112.09968)!  
 
 - **[April 2021]**  ["Deep Constraint-based Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2021-04-15-lpgnn-TPAMI) has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!  
