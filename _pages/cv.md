@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Have a look at my ["curriculum"](https://mtiezzi.github.io/files/cv.pdf)!
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
