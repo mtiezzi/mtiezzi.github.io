@@ -21,6 +21,12 @@ My recent contributes are related to both the application of  Deep Learning mode
 
 News
 ====
+
+- **[July 2022]** Two paper accepted at the ["Conference on Lifelong Learning Agents - CoLLAs 2022"](https://lifelong-ml.cc/acceptedpapers)! "Continual Unsupervised Learning for Optical Flow Estimation with Deep Networks" and "Continual Learning through Hamilton Equations".   
+
+- **[July 2022]**  ["Foveated Neural Computation"](https://2022.ecmlpkdd.org/index.php/accepted-papers/) (to be announced) has been accepted at the ECML-PKDD 2022 Conference!  
+
+
 - **[June 2022]**  ["Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams"](https://mtiezzi.github.io/publication/2022-06-09-stochastic) has been accepted at the IJCAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2204.12193)!  
 
 - **[November 2021]**  ["Being Friends Instead of Adversaries: Deep Networks Learn from Data Simplified by Other Networks"](https://mtiezzi.github.io/publication/2022-02-25-friendly2) has been accepted at the AAAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2112.09968)!  
