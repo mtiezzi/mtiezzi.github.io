@@ -12,35 +12,31 @@ redirect_from:
 
 
 
-I am a post-doctoral researcher in the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/), tutored by [Prof. Stefano Melacci](http://sailab.diism.unisi.it/people/stefano-melacci/). I obtained my PhD at the University of Siena, Italy, defending a thesis entitled "Local Propagation in Neural Network Learning by Architectural Constraints". 
-
-I am generally interested in Artificial Intelligence and other connected areas of computer science.
-My recent contributes are related to both the application of  Deep Learning models to computer vision and video analysis, and fundational studies regarding novel learning algorithms and neural models. I am particularly interested in the field of non-euclidean Deep Learning, in particular in Graph Neural Networks, as long as the emerging topic of Lifelong Learning.
-
-
+I am a post-doctoral researcher in the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/). 
+My research interests lie in the areas of Graph Representation Learning and Continual Learning. My current focus revolves around foundational research on novel learning algorithms for continuous streams of data, mostly within dynamic/not i.i.d. visual environments. 
 
 News
 ====
 
+- **[January 2024]** Have a look at our book chapter for ["A Lagrangian framework for learning in graph neural networks"](https://www.sciencedirect.com/science/article/abs/pii/B9780323961042000154)! 
+
+- **[December 2023]** ["Neural Time-Reversed Generalized Riccati Equation"](https://arxiv.org/abs/2312.09310)! accepted at AAAI 2024!   
+
+- **[June 2023]** ["Continual Learning with Pretrained Backbones by Tuning in the Input Space"](https://arxiv.org/abs/2306.02947)! accepted at IJCNN 2023!   
+
 - **[July 2022]** Two paper accepted at the ["Conference on Lifelong Learning Agents - CoLLAs 2022"](https://lifelong-ml.cc/acceptedpapers)! "Continual Unsupervised Learning for Optical Flow Estimation with Deep Networks" and "Continual Learning through Hamilton Equations".   
 
-- **[July 2022]**  ["Foveated Neural Computation"](https://2022.ecmlpkdd.org/index.php/accepted-papers/) (to be announced) has been accepted at the ECML-PKDD 2022 Conference!  
-
+- **[July 2022]**  ["Foveated Neural Computation"](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_2) has been accepted at the ECML-PKDD 2022 Conference!  
 
 - **[June 2022]**  ["Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams"](https://mtiezzi.github.io/publication/2022-06-09-stochastic) has been accepted at the IJCAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2204.12193)!  
 
-- **[November 2021]**  ["Being Friends Instead of Adversaries: Deep Networks Learn from Data Simplified by Other Networks"](https://mtiezzi.github.io/publication/2022-02-25-friendly2) has been accepted at the AAAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2112.09968)!  
-
 - **[April 2021]**  ["Deep Constraint-based Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2021-04-15-lpgnn-TPAMI) has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!  
 
-- **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io//posts/2021/04/thesis/)! Have a look at the blog post!   
+- **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io//posts/2021/04/thesis/)! Have a look at the ["blog post"](https://mtiezzi.github.io//posts/2021/04/thesis/)!   
 
 - **[December 2020]** Have a look at the slides of the talk ["An overview of Graph Neural Networks up to Lagrangian Propagation GNNs"](https://mtiezzi.github.io/talks/2020-12-04-maasai) that I gave at the Maasai institute! 
 
 - **[September 2020]** My paper ["Focus of Attention Improves Information Transfer in Visual Features"](https://mtiezzi.github.io/publication/2020-09-25-focus) has been accepted at NeurIPS 2020 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2006.09229)!
-
-- **[January 2020]** ["A Lagrangian Approach to Information Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2020-03-17-lpgnn) accepted at ECAI 2020!
-
 
 Projects
 ========
