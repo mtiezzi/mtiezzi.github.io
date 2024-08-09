@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matteo Tiezzi - PostDoc @ SAILab"
+title: "Matteo Tiezzi - PostDoc @ IIT"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,11 +12,14 @@ redirect_from:
 
 
 
-I am a post-doctoral researcher in the Siena Artificial Intelligence Laboratory [SAILab](https://sailab.diism.unisi.it/). 
-My research interests lie in the areas of Graph Representation Learning and Continual Learning. My current focus revolves around foundational research on novel learning algorithms for continuous streams of data, mostly within dynamic/not i.i.d. visual environments. 
+I am a post-doctoral researcher in [PAVIS](https://pavis.iit.it/) (Pattern Analysis and Computer Vision) group at the [Italian Institute of Technology (IIT)](https://www.iit.it/it/).
+ 
+My research interests lie in the areas of Lifelong Learning and Graph Representation Learning. My current focus revolves around foundational research on novel learning algorithms for continuous streams of data, mostly within dynamic/not i.i.d. visual environments. 
 
 News
 ====
+
+- **[July 2024]** I presented the paper ["Memory Head for Pre-Trained Backbones in Continual Learning"](https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-1) at the third Conference on Lifelong Learning Agents (CoLLAs)! 
 
 - **[January 2024]** Have a look at our book chapter for ["A Lagrangian framework for learning in graph neural networks"](https://www.sciencedirect.com/science/article/abs/pii/B9780323961042000154)! 
 
@@ -24,24 +27,12 @@ News
 
 - **[June 2023]** ["Continual Learning with Pretrained Backbones by Tuning in the Input Space"](https://arxiv.org/abs/2306.02947)! accepted at IJCNN 2023!   
 
-- **[July 2022]** Two paper accepted at the ["Conference on Lifelong Learning Agents - CoLLAs 2022"](https://lifelong-ml.cc/acceptedpapers)! "Continual Unsupervised Learning for Optical Flow Estimation with Deep Networks" and "Continual Learning through Hamilton Equations".   
 
-- **[July 2022]**  ["Foveated Neural Computation"](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_2) has been accepted at the ECML-PKDD 2022 Conference!  
-
-- **[June 2022]**  ["Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams"](https://mtiezzi.github.io/publication/2022-06-09-stochastic) has been accepted at the IJCAI2022 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2204.12193)!  
-
-- **[April 2021]**  ["Deep Constraint-based Propagation in Graph Neural Networks"](https://mtiezzi.github.io/publication/2021-04-15-lpgnn-TPAMI) has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!  
-
-- **[March 2021]** I have successfully defended my PhD thesis entitled  ["Local Propagation in Neural Network Learning by Architectural Constraints"](https://mtiezzi.github.io//posts/2021/04/thesis/)! Have a look at the ["blog post"](https://mtiezzi.github.io//posts/2021/04/thesis/)!   
-
-- **[December 2020]** Have a look at the slides of the talk ["An overview of Graph Neural Networks up to Lagrangian Propagation GNNs"](https://mtiezzi.github.io/talks/2020-12-04-maasai) that I gave at the Maasai institute! 
-
-- **[September 2020]** My paper ["Focus of Attention Improves Information Transfer in Visual Features"](https://mtiezzi.github.io/publication/2020-09-25-focus) has been accepted at NeurIPS 2020 Conference! Have a look at the [technical report here](https://arxiv.org/abs/2006.09229)!
 
 Projects
 ========
 
-I am currently involved in several projects at SAILab
+I am currently involved in several projects at my former laboratory, [SAILab](https://sailab.diism.unisi.it/)
 
 <p align="middle">
   <img src="../images/sailab.png" width="15%" />
