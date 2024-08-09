@@ -32,7 +32,7 @@ News
 Projects
 ========
 
-I am currently involved in several projects at my former laboratory, [SAILab](https://sailab.diism.unisi.it/)
+In the following, some of the projects I was involved in my former laboratory, [SAILab](https://sailab.diism.unisi.it/)
 
 <p align="middle">
   <img src="../images/sailab.png" width="15%" />
