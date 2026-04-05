@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "Matteo Tiezzi / Personal Web Page"
 title_separator          : "-"
 name                     : &name "Matteo Tiezzi"
-description              : &description "PostDoc Researcher @ SAILab"
+description              : &description "ML Tech Lead @ Generative Bionics"
 url                      : https://mtiezzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mtiezzi.github.io"
@@ -89,12 +89,12 @@ analytics:
 author:
   name             : "Matteo Tiezzi"
   avatar           : "profile.png"
-  bio              : "PostDoc Researcher @ SAILAB"
+  bio              : "ML Tech Lead @ Generative Bionics"
   location         : "Siena, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HJ2TW1YAAAAJ&hl=en"
-  email            : "matteo.tiezzi@unisi.it"
+  email            : "matteo.tiezzi@gbionics.ai"
   researchgate     : "https://www.researchgate.net/profile/Matteo_Tiezzi"
   uri              :
   bitbucket        :

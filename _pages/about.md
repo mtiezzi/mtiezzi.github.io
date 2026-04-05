@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matteo Tiezzi - PostDoc @ IIT"
+title: "Matteo Tiezzi - ML Tech Lead @ Generative Bionics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,12 +12,14 @@ redirect_from:
 
 
 
-I am a post-doctoral researcher in [PAVIS](https://pavis.iit.it/) (Pattern Analysis and Computer Vision) group at the [Italian Institute of Technology (IIT)](https://www.iit.it/it/).
- 
-My research interests lie in the areas of Lifelong Learning and Graph Representation Learning. My current focus revolves around foundational research on novel learning algorithms for continuous streams of data, mostly within dynamic/not i.i.d. visual environments. 
+I am Machine Learning Tech Lead at [Generative Bionics](https://gbionics.ai/), where I investigate Robotic Learning, Physical AI, and Lifelong Continual Learning.
+
+I was formerly a post-doctoral researcher in the [PAVIS](https://pavis.iit.it/) (Pattern Analysis and Computer Vision) group at the [Italian Institute of Technology (IIT)](https://www.iit.it/it/), where my research focused on Lifelong Learning and Graph Representation Learning.
 
 News
 ====
+
+- **[March 2026]** Our paper ["Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment"](https://arxiv.org/abs/2603.10929) has been accepted at **CVPR 2026**!
 
 - **[July 2024]** I presented the paper ["Memory Head for Pre-Trained Backbones in Continual Learning"](https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-1) at the third Conference on Lifelong Learning Agents (CoLLAs)! 
 
